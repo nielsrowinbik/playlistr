@@ -1,0 +1,18 @@
+# next.js build output
+.next
+
+# dotenv environment variables file (build for Vercel)
+.env
+.env.build
+
+# Dependency directories
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Service Worker files (will be regenerated during build)
+public/sw.js*
+public/workbox*
